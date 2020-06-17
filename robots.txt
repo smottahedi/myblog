@@ -1,1 +1,1 @@
-Sitemap: https://smottahedi.github.io/myblog/sitemap.xml
+Sitemap: https://smottahedi.github.io/blog/sitemap.xml
